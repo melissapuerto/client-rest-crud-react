@@ -1,0 +1,4 @@
+applications:
+  - name: tareas-desarrollo-cliente-meli
+    memory: 128M
+    buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git
